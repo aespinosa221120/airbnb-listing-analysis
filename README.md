@@ -79,3 +79,14 @@ Developed as part of the ML Life Cycle Lab 5 assignment in the ML Foundations cu
 1. Clone the repo:  
    ```bash
    git clone https://github.com/aespinosa221120/airbnb-listing-analysis.git
+   cd airbnb-listing-analysis
+2. Install required packages:
+   ```bash
+   pip install pandas numpy scikit-learn matplotlib seaborn
+3. Run the Jupyter Notebook:
+   ```bash
+   jupyter notebook ModelSelectionForLogisticRegression.ipynb
+
+
+  
+   
